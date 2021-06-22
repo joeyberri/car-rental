@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Project Explorer\FinishHard\FinishHard\FinishHard\bin\Debug\FinishHard.exe.config
+C:\Users\user\Desktop\Project Explorer\FinishHard\FinishHard\FinishHard\bin\Debug\FinishHard.exe
+C:\Users\user\Desktop\Project Explorer\FinishHard\FinishHard\FinishHard\bin\Debug\FinishHard.pdb
+C:\Users\user\Desktop\Project Explorer\FinishHard\FinishHard\FinishHard\bin\Debug\FinishHard.xml
+C:\Users\user\Desktop\Project Explorer\FinishHard\FinishHard\FinishHard\obj\Debug\FinishHard.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\Project Explorer\FinishHard\FinishHard\FinishHard\obj\Debug\FinishHard.Form1.resources
+C:\Users\user\Desktop\Project Explorer\FinishHard\FinishHard\FinishHard\obj\Debug\FinishHard.Resources.resources
+C:\Users\user\Desktop\Project Explorer\FinishHard\FinishHard\FinishHard\obj\Debug\FinishHard.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\Project Explorer\FinishHard\FinishHard\FinishHard\obj\Debug\FinishHard.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project Explorer\FinishHard\FinishHard\FinishHard\obj\Debug\FinishHard.exe
+C:\Users\user\Desktop\Project Explorer\FinishHard\FinishHard\FinishHard\obj\Debug\FinishHard.xml
+C:\Users\user\Desktop\Project Explorer\FinishHard\FinishHard\FinishHard\obj\Debug\FinishHard.pdb
